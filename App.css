@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Source+Code+Pro&display=swap");
+/* h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    width: 71%;
+    text-transform: capitalize;
+    color: #24A0ED;
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px 10px;
+} */
+body{
+    background-image: url(http://blog.drumup.io/wp-content/uploads/2016/04/library-1147816_1920.jpg);
+}
+/* .App{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}
+button{
+    background-color: #24A0ED;
+}
+
+button:hover   {
+    box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+    background-image: linear-gradient(-180deg, #1D95C9 0%, #17759C 100%);
+    transition: 0.5s;
+}
+ */
+ .square-box{
+    max-width: 800px;
+    min-height: 700px;
+
+ }
